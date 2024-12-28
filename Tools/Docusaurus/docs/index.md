@@ -39,7 +39,7 @@ UdonSharp is a compiler that compiles C# to Udon assembly. UdonSharp is not curr
 ## Setup
 
 ### Requirements
-- Unity 2019.4.31f1
+- Unity 2022.3.22f1
 - [VRCSDK3 + UdonSDK](https://vrchat.com/home/download)
 - The latest [release](https://github.com/vrchat-community/UdonSharp/releases/latest) of UdonSharp
 
